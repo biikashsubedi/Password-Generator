@@ -25,3 +25,5 @@ python3 generator.py -c ldus -l 8
 -s = special [charset]
 
 ## IMAGE
+
+![image](https://user-images.githubusercontent.com/23361796/83187239-9609cd80-a14d-11ea-9f5d-3e8740a0350d.png)
