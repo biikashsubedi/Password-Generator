@@ -7,22 +7,22 @@ import argparse<br>
 
 ## RUN
 
-python3 generator.py  >>{DEFAULT}
+python3 generator.py  >>{DEFAULT}<br>
 python3 generator.py -c ldus -l 8
 
--h = help
--c = charset
--l = length
--ldus = all combination password [charset]
--ldu = letter, digits and upper [charset]
--ld = letter and digits [charset]
--lds = letter, digits and special [charset]
--lus = letter, upper and special 
--dus = digits, upper and special [charset]
--l = letter [charset]
--d = digits [charset]
--u = upper  [charset]
--s = special [charset]
+-h = help<br>
+-c = charset<br>
+-l = length<br>
+-ldus = all combination password [charset]<br>
+-ldu = letter, digits and upper [charset]<br>
+-ld = letter and digits [charset]<br>
+-lds = letter, digits and special [charset]<br>
+-lus = letter, upper and special <br>
+-dus = digits, upper and special [charset]<br>
+-l = letter [charset]<br>
+-d = digits [charset]<br>
+-u = upper  [charset]<br>
+-s = special [charset]<br>
 
 ## IMAGE
 
