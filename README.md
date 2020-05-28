@@ -1,8 +1,8 @@
 ## INSTALLATION
 
-import string
-import random
-import argparse
+import string <br>
+import random<br>
+import argparse<br>
 
 
 ## RUN
